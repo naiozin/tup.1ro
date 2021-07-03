@@ -1,0 +1,25 @@
+* {
+    font-family: 'Lobster', cursive;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+div {
+    width: 160px;
+    height: 160px;
+    display: block;
+    background: yellow;
+}
+
+.caja1 {
+    background: orange;
+}
+
+.caja2 {
+    background: blue;
+    position: absolute;
+}
+
+.caja3 {
+    background: green;
+}

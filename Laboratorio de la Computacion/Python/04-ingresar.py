@@ -1,0 +1,8 @@
+#Operacion Enteros(int)
+a = int(input('Ingrese un numero A: '))
+b = int(input('Ingrese el numero B: '))
+print('A + B es igual a:', a+b)
+#Operacion Decimales(float)
+c = float(input('Ingrese un numero C: '))
+d = float(input('Ingrese el numero D: '))
+print('C * D es igual a:', c+d)
